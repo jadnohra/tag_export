@@ -31,7 +31,7 @@ Index | Title | Tags
 28 | A Geometric Approach to Differential Forms | [bachman], version, .pdf, fubini
 29 | A Geometric Approach to Differential Forms | diff-form, orientation, [bachman], geom, fig, [GADF], .pdf
 30 | A Geometry of Approximation, Rough Set Theory, Logic, Algebra and Topology of Conceptual Patterns | algebra, unif, approximation, logic, alt, .pdf, rough, topology
-31 | A Glossary for Biological Information Theory and the Delila System | glossary, IT, disambig, survey, .pdf, in-englihs
+31 | A Glossary for Biological Information Theory and the Delila System | glossary, IT, survey, .pdf, in-englihs
 32 | A Graduate Introduction to Numerical Methods From the Viewpoint of Backward Error Analysis | 2013, numerical, .pdf, book
 33 | A Guide to Distribution Theory and Fourrier Transforms | generalised, ft, [strichartz], .djvu, sensors:kalman:distribution, distribution, pde, history
 34 | A History of the Calculus of Variations from the 17th through the 19th Century | variational, .pdf, math, history
@@ -75,7 +75,7 @@ Index | Title | Tags
 72 | A Treatise on the Analytical Dynamics of Particles and Rigid Bodies, With an Introduction To The Problem of Three Bodies | [whittaker], @whitt, .djvu, lagr:p215
 73 | A Unified Approach to Understanding Statistics | short, probability, frequentist, unif, survey, bayes, .pdf, too-diff
 74 | A Unified Framework for Rigid Body Dynamics | mechanics, rigid-body, physics, simulation, paper, dynamics, .pdf
-75 | A User's Guide to Measure Theoretic Probability | probability, author, disambig, survey, [pollard], measure, .pdf, history
+75 | A User's Guide to Measure Theoretic Probability | probability, author, survey, [pollard], measure, .pdf, history
 76 | A Volumetric Method for Building Complex Models from Range Images | surf-recon, .pdf
 77 | A characterization of continuity revisited | continuity, charac, .pdf, connectedness
 78 | A cognitive analysis of Cauchy's conceptions of function, continuity, limit and infinitesimal, with implications for teaching the calculus | [katz], nsa, understanding, .pdf
@@ -381,7 +381,7 @@ Index | Title | Tags
 402 | Elementary Real Analysis | .pdf, ppl
 403 | Elementary algebraic geometry | [hulek], 2003, .djvu, ag
 404 | Elementary differential geometry | coord-free, gk1, gradient, fig, diff-geom, .pdf, 2010, math
-405 | Elements for Physics, Quantities, Qualities, and Intrinsic Theories | multilin, [EoP], coord-free, tensor, author, physics, [tarantola], disambig, ipt, rotation, diff-geom, .pdf
+405 | Elements for Physics, Quantities, Qualities, and Intrinsic Theories | multilin, [EoP], coord-free, tensor, author, physics, [tarantola], ipt, rotation, diff-geom, .pdf
 406 | Elements of Expertise in Geometry | meta-proof, .pdf, done
 407 | Elements of numerical analysis | [henrici], conv, 1964, numerical, gk1, .djvu, [EoNA]
 408 | Elements of the Theory of Computation | .djvu, reco, compu
@@ -563,7 +563,7 @@ Index | Title | Tags
 594 | Infinite dimensional analysis, a hitchhiker's guide | .pdf, alt, 2006, math
 595 | Infinitesimal Calculus | nsa, .missing, ppl, [henle]
 596 | Infinitesimal Integral Vector Calculus | diff-form, [stroyan], orientation, nsa, part, .pdf
-597 | Information Theory Primer | IT, disambig, .pdf
+597 | Information Theory Primer | IT, .pdf
 598 | Information Theory and Reliable Communication | [gallager], .pdf, IT
 599 | Information Theory, Inference, and Learning Algorithms | ml, [ITILA], survey, IT, .pdf
 600 | Information theory techniques for multimedia data classification and retrieval | information, classification, probability, ml, mv, survey, thesis, .pdf
@@ -723,7 +723,7 @@ Index | Title | Tags
 765 | Methods for Nonlinear Least Squares Problems | opt, last:fail, least-squares, nonlinear, survey, .pdf
 767 | Model Selection, Beyond the Bayesian-Frequentist Divide | selection, author, ml, statistics, validation, .pdf, [cawley]
 768 | Model Theory | 2008, model, .djvu
-769 | Model Theory | SEP, disambig, model, .pdf, semantics
+769 | Model Theory | SEP, model, .pdf, semantics
 770 | Model Theory and Differential Algebraic Geometry | synthetic, .pdf, model, diff-geom, alg-geom
 771 | Model Theory, An Introduction | 2002, model, book, .pdf
 772 | Modeling Contact Friction and Joint Friction in Dynamic Robotic Simulation using the Principle of Maximum Dissipation | rigid-body, author, friction, [drumwright], paper, .pdf
