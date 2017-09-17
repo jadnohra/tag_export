@@ -25,7 +25,7 @@ Index | Title | Tags
 22 | A First Course in Numerical Methods | mechanics, opt, nonlin, physics, lin, numerical, integ, simulation, book, dynamics, .pdf, 2011
 23 | A First Look at Perturbation Theory | mechanics, EL, dynamics, physics, .pdf
 24 | A Formal Approach to Lakatosian heuristics | interesting, .pdf, heuristics
-25 | A Friendly Introduction to Mathematical Logic | [FItML], reco, ql, .djvu, logic, model, friendly
+25 | A Friendly Introduction to Mathematical Logic | [FItML], reco, ql, .djvu, logic, model
 26 | A Garden of Integrals | integration, survey, .pdf, history
 27 | A General Pricing Scheme for the Simplex Method | [maros], .pdf, simplex
 28 | A Geometric Approach to Differential Forms | [bachman], version, .pdf, fubini
@@ -46,7 +46,7 @@ Index | Title | Tags
 43 | A Numerically Robust LCP Solver for Simulating Articulated Rigid Bodies in Contact | rigid-body, lcp, interesting, numerical, simulation, paper, .pdf
 44 | A Panoramic View of Riemannian Geometry | riemann, hist, survey, diff-geom, .pdf
 45 | A Polynomial Approach to Linear Algebra | interesting, alt, .pdf, syst-theory, lin-alg
-46 | A Primer of Infinitesimal Analysis | phys, nsa, phil, vec-calc, [bell], book, diff-eq, alt, .pdf, lvl0, math, logic
+46 | A Primer of Infinitesimal Analysis | phys, nsa, phil, vec-calc, [bell], book, diff-eq, alt, .pdf, math, logic
 47 | A Primer on Hilbert Space Theory. Linear Spaces, Topological Spaces, Metric Spaces, Normed Spaces, and Topological Groups- | 2014, hilb, .pdf
 48 | A Probabilistic Theory of Pattern Recognition | detailed, ml, .djvu, probability
 49 | A Probability Path | probability, LLN, measure, .pdf
@@ -144,19 +144,19 @@ Index | Title | Tags
 143 | An Infinite Series Approach to Calculus | alt, inverse, .pdf, math
 144 | An Introduction to Category Theory | .pdf, cat
 145 | An Introduction to Computational Networks and the Computational Network Toolkit | cntk, ml, .pdf, ms
-146 | An Introduction to Convexity | opt, lagr, survey, convex, .pdf, friendly
+146 | An Introduction to Convexity | opt, lagr, survey, convex, .pdf
 147 | An Introduction to Formal Logic | study, logic, .pdf, formal
 148 | An Introduction to Formal Logic, Solutions | .pdf, solutions
 149 | An Introduction to Goedels Theorems | [IGT], logic, pa, goedel, consistency, .pdf
 150 | An Introduction to Manifolds | manifold, .pdf
 151 | An Introduction to Mathematical Logic and Type Theory | type-theory, .djvu, logic
-152 | An Introduction to Non-Standard Analysis and its applications | short, nsa, alt, .pdf, lvl0, math
+152 | An Introduction to Non-Standard Analysis and its applications | short, nsa, alt, .pdf, math
 153 | An Introduction to Nonstandard Analysis | nsa, alt, intro, .pdf, math
 154 | An Introduction to Numerical Analysis | reference, .djvu, book, integration, numerical
 155 | An Introduction to the Conjugate Gradient Method Without the Pain | opt, nonlin, gradient, gk1, conjugate, .pdf
 156 | An Introduction to the theory of infinite series | series, .djvu
 157 | An Isabelle:HOL Formalisation of Green s Theorem | stokes, auto-proof, green, formalized, .pdf
-158 | An Outline of Set Theory | axiomatic, nsa, ZF, st, [henle], logic, lvl0, ppl, .pdf
+158 | An Outline of Set Theory | axiomatic, nsa, ZF, st, [henle], logic, ppl, .pdf
 159 | An Outline of Theory of Semantic Information | .pdf, [carnap], semantics, logic
 160 | An Overview of Type Theories | short, type, survey, logic, lambda, .pdf, history
 161 | An algebraic model of transitive differential geometry | synthetic, .pdf, alg-geom, diff-geom
@@ -259,7 +259,7 @@ Index | Title | Tags
 268 | Clifford algebra, geometric algebra, and applications | GA, .pdf, clifford
 269 | Closed Forms, What are they and why we care | trefethen, closed-form, .pdf
 270 | Cognitive Development of Proof | [tall], understanding, .pdf
-271 | Combinatorial Set Theory, With a Gentle Introduction to Forcing | logic, forcing, .pdf, friendly
+271 | Combinatorial Set Theory, With a Gentle Introduction to Forcing | logic, forcing, .pdf
 272 | Combinators, lambda-Terms and Proof Theory | combinators, .pdf, logic, lambda
 273 | Combining Direct and Iterative Methods for the Solution of Large Systems in Different Application Areas | iterative, numerical, hybrid, direct, mixed, .pdf, block
 274 | Combining rotation quaternions | .pdf, p8'
@@ -561,7 +561,7 @@ Index | Title | Tags
 592 | Infinite Series in a History of Analysis | series, .pdf, missing
 593 | Infinite dimensional analysis | [charalambos], unif, 2006, alt, .pdf
 594 | Infinite dimensional analysis, a hitchhiker's guide | .pdf, alt, 2006, math
-595 | Infinitesimal Calculus | nsa, .missing, ppl, lvl0, [henle]
+595 | Infinitesimal Calculus | nsa, .missing, ppl, [henle]
 596 | Infinitesimal Integral Vector Calculus | diff-form, [stroyan], orientation, nsa, part, .pdf
 597 | Information Theory Primer | IT, disambig, .pdf
 598 | Information Theory and Reliable Communication | [gallager], .pdf, IT
@@ -572,7 +572,7 @@ Index | Title | Tags
 603 | Integral, Measure and Derivative, A Unified Approach | .pdf, integration, measure
 604 | Integration - A Functional Approach | .pdf, integration
 605 | Integration on Surreal Numbers | rsa, s-real, integ, alt, .pdf, math, post-nsa
-606 | Intermediate Dynamics For Engineers | mechanics, EL, .pdf, unif, NE, [oreilly], [IDfE], book, dynamics, physics, lvl0
+606 | Intermediate Dynamics For Engineers | mechanics, EL, .pdf, unif, NE, [oreilly], [IDfE], book, dynamics, physics
 608 | Introduction to Algebraic Geometry | .pdf, [smith], ag
 609 | Introduction to Asymptotic Methods | .djvu, book, asympt
 610 | Introduction to Asymptotics A Treatment Using Nonstandard Analysis | nsa, asympt, .pdf
@@ -796,7 +796,7 @@ Index | Title | Tags
 845 | Numerical Analysis | sheet, .pdf
 846 | Numerical Analysis | [olver], .pdf
 847 | Numerical Analysis of Dynamical Systems | dyn, numerical, .pdf, integ
-848 | Numerical Computing with MATLAB | numerical, lu, cond, [moler], lvl0, .pdf, software
+848 | Numerical Computing with MATLAB | numerical, lu, cond, [moler], .pdf, software
 849 | Numerical Geometric Integration | [hairer], hamiltonian, numerical, lagrangian, integration, [in-short]-parts, geometric, .pdf
 850 | Numerical Integration of Non-analytic Functions | analytic, numerical, .pdf, integration
 851 | Numerical Integration of Periodic Functions, A Few Examples | numerical, .pdf, integration, example
@@ -1025,7 +1025,7 @@ Index | Title | Tags
 1085 | Sussman-Structure and Interpretation of Computer Programs- 1996 | .pdf, [sussman], ppl
 1086 | Suvery of Numerical Mathematics, I | .djvu, numerical, survey
 1087 | Suvery of Numerical Mathematics, II | .djvu, numerical, survey
-1088 | Sweet reason, A field guide to modern logic | [henle], lvl0, ppl, .djvu, logic
+1088 | Sweet reason, A field guide to modern logic | [henle], ppl, .djvu, logic
 1089 | Symbolic Integration Tutorial | symbolic, integration, .pdf, method
 1090 | Symbolic Logic, Syntax, Semantics, and Proof | logic, .pdf, semantics, 2012
 1091 | Symmetries and invariances in classical physics | mathematical, physics, invariance, .pdf, symmetry
