@@ -361,7 +361,7 @@
 354 |  | Distinctive Image Features from Scale-Invariant Keypoints | .pdf, cited, invariant, mv | <sub></sub>
 355 |  | Div, Grad, Curl, and All That: An Informal Text on Vector Calculus | .djvu, alt, curl, div, grad, informatl, math, vec-calc | <sub></sub>
 356 | ★ | Diversity Leads to Generalization in Neural Networks | .pdf, ml, nn, success | <sub></sub>
-357 |  | Donald Knuth: Calculus via O notation | Mathematics under the Microscope | .pdf, inverse, math | <sub></sub>
+357 |  | Donald Knuth: Calculus via O notation : Mathematics under the Microscope | .pdf, inverse, math | <sub></sub>
 358 |  | Down with Determinants | .pdf, alt, determinant, lin-alg, math | <sub></sub>
 359 |  | Dynamics With Inequalities, Impacts and Hard Constraints | .pdf, 2011, book, mechanics, mihai, physics, proj-dyn-sys, simulation | <sub></sub>
 360 |  | Dynamics and Bifurcations of Non-Smooth Mechanical Systems | .pdf, disc-dyn-sys, mechanics, physics, simulation | <sub></sub>
@@ -1044,7 +1044,7 @@
 1037 |  | THE DEVELOPMENT OF MATHEMATICAL THINKING, PROBLEM-SOLVING AND PROOF | .pdf, [tall] | <sub></sub>
 1038 |  | THE PROVING PROCESS IN MATHEMATICS CLASSROOM – METHOD AND RESULTS OF A VIDEO STUDY | .pdf, understanding | <sub></sub>
 1039 |  | THE UNREASONABLE EFFECTIVENESS OF NONSTANDARD ANALYSIS | .pdf, interesting, logic, nsa | <sub>@article{sanders2015unreasonable, title={The unreasonable effectiveness of Nonstandard Analysis}, author={Sanders, Sam}, journal={arXiv preprint arXiv:1508.07434}, year={2015} }</sub>
-1040 |  | TYL, #14. Alternative set theories | Logic Matters | .pdf, q1, quest | <sub></sub>
+1040 |  | TYL, #14. Alternative set theories : Logic Matters | .pdf, q1, quest | <sub></sub>
 1041 | ★ | Table of Integrals, Series, and Products | .pdf, integration, series, survey, table | <sub></sub>
 1042 |  | Table of Integrals, Series, and Products, Related Papers | .pdf, integration, survey, table, technique | <sub></sub>
 1043 |  | Tactics for mechanized reasoning, a commentary on Milner | .pdf, auto-proof, history, milner | <sub></sub>
